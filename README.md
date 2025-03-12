@@ -14,9 +14,6 @@ This project is an **HR Analytics Dashboard** designed to provide insights into 
 - Hiring and retention trends
 - Correlation analysis of factors affecting employee satisfaction and attrition
 
-## Demo
-![Dashboard Preview](https://via.placeholder.com/800x400?text=HR+Analytics+Dashboard+Preview)
-
 ## Dataset
 The dataset includes information on employees from multiple departments and contains the following features:
 - Employee ID, name, department, and tenure
