@@ -88,7 +88,7 @@ Some key findings from the analysis:
 - **Automated reporting** for HR teams
 
 ## About the Author
-Created by [Your Name](https://www.linkedin.com/in/yourprofile/) - Connect with me on LinkedIn!
+Created by [Rahul](https://www.linkedin.com/in/yourprofile/) - Connect with me on LinkedIn!
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
